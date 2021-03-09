@@ -10021,6 +10021,19 @@ h3 {
   color: #2c3e50 !important;
   font-size: 2rem;
 }
+.portfolio-item .divider-custom {
+  margin: 0.25rem 0 0.25rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.portfolio-item .divider-custom .divider-custom-line {
+  height: 0.125rem;
+}
+.portfolio-item .divider-custom .divider-custom-icon {
+  font-size: 1rem;
+}
 .divider-custom.divider-light .divider-custom-line {
   background-color: #fff;
 }
@@ -10164,6 +10177,7 @@ h3 {
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
+  width: 90%;
 }
 
 .portfolio-modal .portfolio-modal-title {
