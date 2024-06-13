@@ -10148,7 +10148,7 @@ h3 {
   position: relative;
   display: block;
   max-width: 25rem;
-  border-radius: 0.5rem;
+  border-radius: 20%;
   overflow: hidden;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
@@ -10165,7 +10165,8 @@ h3 {
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
 	width: 100%;
   font-size: 1rem;
-  padding: 0.5rem;
+  padding: 10%;
+  padding-top: 0;
 }
 
 
